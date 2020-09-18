@@ -14,6 +14,6 @@
 ---
 > 💬 Ask me about ... Anything!
 
-> 📫 [email](scott.a.fuston@gmail.com)
+> 📫 [scott.a.fuston@gmail.com](scott.a.fuston@gmail.com)
     
 > 🙋🏽‍♂️ [LinkedIn](https://www.linkedin.com/in/scott-fuston/)

@@ -1,6 +1,7 @@
 # Hello World! 👋
 ---
   #### Welcome to my GitHub! I am a fully endorsed Lambda School student preparing for the job market as a Full-Stack Developer.
+  ![alt text](https://github.com/fuston05/fuston05/blob/master/full-stack-web-development-technical-interviewing_126.png "Lambda School Endorsement Badge")
   > 💻 I have a strong passion for programming and learning new things<br>
    📚 I’m currently working on the Story Squad Application for Lambda 'Labs', and learning [Recoil](https://recoiljs.org/), a new state management system from Facebook<br>
    🌐 I’m currently learning more in depth advanced Javascript.

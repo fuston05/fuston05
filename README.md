@@ -8,7 +8,7 @@
 ---
 #### Interests/Hobbies
   >  🎮 Xbox enthusiast<br>
-    👱‍♀️ I have a 17 year old, wonderful daughter who is the center of my life!
+    👱‍♀️ I have been a single parent for 10 years, my daughter is the center of my life!
 ---
 #### SKILLS
 >JavaScript | ReactJS | HTML | CSS | LESS/SASS | Deployment | Styled-Components | Ant Design | Recoil | Redux | NodeJS | Express | Knex | SQL | SQLite3 | PostgreSQL | Python | REST | API | Algorithms | Data Structures | VScode | Agile - Development | Git | GitHub | Netlify | Heroku | Trello | Whimsical | GIMP | Unit Testing | React Testing Library | Jest | OOP

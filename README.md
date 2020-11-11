@@ -5,7 +5,6 @@
   > 💻 I have a strong passion for programming and learning new things<br>
    📚 I’m currently learning Typescript and Angular, and advanced JavaScript.
 ---
-<br>
 #### Interests/Hobbies
   >  🎮 Xbox enthusiast<br>
     👱‍♀️ I have been a single parent for 10 years, my daughter is the center of my life!

@@ -7,12 +7,13 @@
    <br>
    🌐 I’m currently learning more in depth advanced Javascript.
 ---
+<br>
 #### Interests/Hobbies
   >  🎮 Xbox enthusiast<br>
     👱‍♀️ I have been a single parent for 10 years, my daughter is the center of my life!
 ---
 #### SKILLS
->JavaScript | ReactJS | HTML | CSS | LESS/SASS | Styled-Components | Ant Design | Recoil | Redux | NodeJS | Express | Knex | SQL | SQLite3 | PostgreSQL | Python | REST | API | Algorithms | Data Structures | VScode | Agile - Development | Git | GitHub | Deployment | Netlify | Heroku | Trello | Whimsical | GIMP | Unit Testing | React Testing Library | Jest | OOP | TypeScript | Angular
+> JavaScript | ReactJS | HTML | CSS | LESS/SASS | Styled-Components | Ant Design | Recoil | Redux | NodeJS | Express | Knex | SQL | SQLite3 | PostgreSQL | Python | REST | API | Algorithms | Data Structures | VScode | Agile - Development | Git | GitHub | Deployment | Netlify | Heroku | Trello | Whimsical | GIMP | Unit Testing | React Testing Library | Jest | OOP | TypeScript | Angular
 ---
 > 💬 Ask me about ... Anything!
 

@@ -3,7 +3,7 @@
   #### Welcome to my GitHub! I am a fully endorsed Lambda School Alumni seeking a remote developer position.
   ![alt text](https://github.com/fuston05/fuston05/blob/master/full-stack-web-development-technical-interviewing_126.png "Lambda School Endorsement Badge")
   > 💻 I have a strong passion for programming and learning new things!<br>
-   📚 I’m currently learning Typescript, Angular, and advanced JavaScript.
+   📚 I’m currently building a nodeJs server for practice [My nodeJs API](https://github.com/fuston05/api-parctice).
 ---
 #### Interests/Hobbies
   >  🎮 Xbox enthusiast<br>

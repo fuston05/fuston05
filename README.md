@@ -2,18 +2,18 @@
 ---
   #### Welcome to my GitHub! I am a fully endorsed Lambda School Alumni seeking a remote developer position.
   ![alt text](https://github.com/fuston05/fuston05/blob/master/full-stack-web-development-technical-interviewing_126.png "Lambda School Endorsement Badge")
-  > 💻 I have a strong passion for programming and learning new things<br>
-   📚 I’m currently learning Typescript and Angular, and advanced JavaScript.
+  > 💻 I have a strong passion for programming and learning new things!<br>
+   📚 I’m currently learning Typescript, Angular, and advanced JavaScript.
 ---
 #### Interests/Hobbies
   >  🎮 Xbox enthusiast<br>
     👱‍♀️ I have been a single parent for 10 years, my daughter is the center of my life!
 ---
 #### TOP SKILLS
-> JavaScript | ReactJS | HTML | CSS | LESS/SASS | Styled-Components | Ant Design| Python | REST | API | VScode | Agile - Development | Git | GitHub | Deployment | Netlify | Heroku | Trello | Whimsical | GIMP |
+> JavaScript | ReactJS | HTML | CSS | LESS/SASS | Styled-Components | Ant Design| Python | REST | API | VScode | Agile - Development | Git | GitHub | Deployment | Netlify | Heroku | Trello | Whimsical | GIMP | Database Schema Design | Postgres | SQLite3 | SQL | ExpressJs | KnexJs | NodeJS
 ---
 #### OTHER SKILLS
-> Recoil | Redux | NodeJS | Express | Knex | SQL | SQLite3 | PostgreSQL | Algorithms | Data Structures | Unit Testing | React Testing Library | Jest | OOP | TypeScript | Angular
+> Recoil | Redux | Algorithms | Data Structures | Unit Testing | React Testing Library | Jest | OOP | TypeScript | Angular
 ---
 > 💬 Ask me about ... Anything!
 

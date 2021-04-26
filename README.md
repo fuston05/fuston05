@@ -20,3 +20,5 @@
 > 📫 [scott.a.fuston@gmail.com](scott.a.fuston@gmail.com)
     
 > 🙋🏽‍♂️ [LinkedIn](https://www.linkedin.com/in/scott-fuston/)
+
+> 👉 [My Portfolio](https://scottfuston.com/) 👈

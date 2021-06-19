@@ -1,6 +1,6 @@
 # Hello World! 👋
 ---
-  #### Welcome to my GitHub! I am a fully endorsed Lambda School Alumni seeking a remote developer position.
+  #### Welcome to my GitHub! I am a Lambda School Alumni seeking a remote developer position.
   ![alt text](https://github.com/fuston05/fuston05/blob/master/full-stack-web-development-technical-interviewing_126.png "Lambda School Endorsement Badge")
   > 💻 I have a strong passion for programming and learning new things!<br>
    📚 I’m currently studying and practicing on a daily basis to continuoulsy learn and grow as a developer while I seek my first professional role as a software engineer

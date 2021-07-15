@@ -10,7 +10,7 @@
     👱‍♀️ I have been a single parent for 10 years, my daughter is the center of my life!
 ---
 #### TOP SKILLS
-> JavaScript | ReactJS | HTML | CSS | LESS/SASS | Styled-Components | Ant Design | Python | REST API | VScode | Agile - Development | Git | GitHub | Deployment | Netlify | Heroku | Trello | Whimsical | GIMP | Database Schema Design | Postgres | SQLite3 | SQL | ExpressJs | KnexJs | NodeJS
+> Plaid | JavaScript | ReactJS | HTML | CSS | LESS/SASS | Styled-Components | Ant Design | Python | REST API | VScode | Agile - Development | Git | GitHub | Deployment | Netlify | Heroku | Trello | Whimsical | GIMP | Database Schema Design | Postgres | SQLite3 | SQL | ExpressJs | KnexJs | NodeJS
 ---
 #### OTHER SKILLS
 > Recoil | Redux | Algorithms | Data Structures | Unit Testing | React Testing Library | Jest | OOP | TypeScript | Angular

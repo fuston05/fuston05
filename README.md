@@ -13,7 +13,7 @@
 > Plaid | JavaScript | ReactJS | HTML | CSS | LESS/SASS | Styled-Components | Ant Design | Python | REST API | VScode | Agile - Development | Git | GitHub | Deployment | Netlify | Heroku | Trello | Whimsical | GIMP | Database Schema Design | Postgres | SQLite3 | SQL | ExpressJs | KnexJs | NodeJS
 ---
 #### OTHER SKILLS
-> Recoil | Redux | Algorithms | Data Structures | Unit Testing | React Testing Library | Jest | OOP | TypeScript | Angular
+> Recoil | Redux | Algorithms | Data Structures | Unit Testing | React Testing Library | Jest | OOP | TypeScript
 ---
 > 💬 Ask me about ... Anything!
 

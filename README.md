@@ -22,3 +22,5 @@
 > 🙋🏽‍♂️ [LinkedIn](https://www.linkedin.com/in/scott-fuston/)
 
 > 👉 [My Portfolio](https://scottfuston.com/) 👈
+
+> [My Resume](https://docs.google.com/document/d/1H4bAd8P8GZ4yuAOvKbwWI0H7iukQamzsGYYEHGe-3_M/edit?usp=sharing)

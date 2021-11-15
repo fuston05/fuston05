@@ -1,16 +1,15 @@
 # Hello World! 👋
 ---
-  #### Welcome to my GitHub! I am a Lambda School Alumni seeking a remote developer position.
+  #### Welcome to my GitHub! I am a Lambda School Alumni working at GrandPad as a QA Engineer!
   ![alt text](https://github.com/fuston05/fuston05/blob/master/full-stack-web-development-technical-interviewing_126.png "Lambda School Endorsement Badge")
   > 💻 I have a strong passion for programming and learning new things!<br>
-   📚 I’m currently studying and practicing on a daily basis to continuoulsy learn and grow as a developer while I seek my first professional role as a software engineer
 ---
 #### Interests/Hobbies
   >  🎮 Xbox enthusiast<br>
     👱‍♀️ I have been a single parent for 10 years, my daughter is the center of my life!
 ---
 #### TOP SKILLS
-> Plaid | JavaScript | ReactJS | HTML | CSS | LESS/SASS | Styled-Components | Ant Design | Python | REST API | VScode | Agile - Development | Git | GitHub | Netlify | Heroku | Trello | GIMP | PostgreSQL | SQLite3 | ExpressJs | KnexJs | NodeJS | NPM
+> JavaScript | ReactJS | Vue | HTML | CSS | LESS/SASS | Styled-Components | Cypress | Python | REST API | VScode | Agile - Development | Git | GitHub | Netlify | Heroku | Trello | GIMP | PostgreSQL | SQLite3 | ExpressJs | KnexJs | NodeJS | NPM
 ---
 #### OTHER SKILLS
 > Recoil | Redux | Algorithms | Data Structures | Unit Testing | React Testing Library | Jest | OOP | TypeScript

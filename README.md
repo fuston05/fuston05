@@ -1,6 +1,6 @@
 # Hello World! 👋
 ---
-  #### Welcome to my GitHub! I am a Lambda School Alumni working at GrandPad as a QA Engineer!
+  #### Welcome to my GitHub! I'm a QA Engineer at GrandPad!
   ![alt text](https://github.com/fuston05/fuston05/blob/master/full-stack-web-development-technical-interviewing_126.png "Lambda School Endorsement Badge")
   > 💻 I have a strong passion for programming and learning new things!<br>
 ---
@@ -9,7 +9,7 @@
     👱‍♀️ I have been a single parent for 10 years, my daughter is the center of my life!
 ---
 #### TOP SKILLS
-> JavaScript | ReactJS | Vue | HTML | CSS | LESS/SASS | Styled-Components | Cypress | Python | REST API | VScode | Agile - Development | Git | GitHub | Netlify | Heroku | Trello | GIMP | PostgreSQL | SQLite3 | ExpressJs | KnexJs | NodeJS | NPM
+> JavaScript | Cypress | VScode | ReactJS | Vue | HTML | CSS | LESS/SASS | Styled-Components | Cypress | Python | REST API | Agile - Development | Git | GitHub | Netlify | Heroku | Trello | GIMP | PostgreSQL | SQLite3 | ExpressJs | KnexJs | NodeJS | NPM
 ---
 #### OTHER SKILLS
 > Recoil | Redux | Algorithms | Data Structures | Unit Testing | React Testing Library | Jest | OOP | TypeScript

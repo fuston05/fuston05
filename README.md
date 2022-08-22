@@ -6,7 +6,7 @@
 ---
 #### Interests/Hobbies
   >  🎮 Xbox enthusiast<br>
-    👱‍♀️ I have been a single parent for 10 years, my daughter is the center of my life!
+    👱‍♀️ I have been a single parent for over 10 years, my daughter is the center of my life!
 ---
 #### TOP SKILLS
 > JavaScript | Cypress | VScode | ReactJS | Vue | HTML | CSS | LESS/SASS | Styled-Components | Cypress | Python | REST API | Agile - Development | Git | GitHub | Netlify | Heroku | Trello | GIMP | PostgreSQL | SQLite3 | ExpressJs | KnexJs | NodeJS | NPM

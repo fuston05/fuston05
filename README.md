@@ -6,10 +6,9 @@
 ---
 #### Interests/Hobbies
   >  🎮 Xbox enthusiast<br>
-    👱‍♀️ I have been a single parent for over 10 years, my daughter is the center of my life!
 ---
 #### TOP SKILLS
-> JavaScript | Cypress | VScode | ReactJS | Vue | HTML | CSS | LESS/SASS | Styled-Components | Cypress | Python | REST API | Agile - Development | Git | GitHub | Netlify | Heroku | Trello | GIMP | PostgreSQL | SQLite3 | ExpressJs | KnexJs | NodeJS | NPM
+> JavaScript | Cypress Web Automation | WebdriverIO Mobile Automation | VScode | ReactJS | Vue | HTML | CSS | LESS/SASS | Python | REST API | Git | GitHub | GIMP | PostgreSQL | SQLite3 | ExpressJs | KnexJs | NodeJS | NPM
 ---
 #### OTHER SKILLS
 > Recoil | Redux | Algorithms | Data Structures | Unit Testing | React Testing Library | Jest | OOP | TypeScript

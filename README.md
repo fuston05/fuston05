@@ -5,7 +5,7 @@
   > 💻 I have a strong passion for programming and learning new things!<br>
 ---
 #### Interests/Hobbies
-  >  🎮 Xbox enthusiast<br>
+  >  🎮⌨️ Gaming enthusiast<br> 🥾 Hiking<br>
 ---
 #### TOP SKILLS
 > JavaScript/Typescript | Cypress Web Automation | WebdriverIO Mobile Automation | VScode | ReactJS | Vue | HTML | CSS | LESS/SASS | Python | REST API | Git | GitHub | GIMP | PostgreSQL | SQLite3 | NodeJS | NPM
